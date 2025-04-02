@@ -37,4 +37,4 @@ python prussia7.py
 
 # ⚠️ Aviso Legal
 
-O Prussia7 foi desenvolvido apenas para fins educacionais e testes de segurança autorizados. O uso indevido pode ser considerado crime digital. O desenvolvedor não se responsabiliza por qualquer uso inadequado desta ferramenta.
+O desenvolvedor não se responsabiliza por qualquer uso inadequado desta ferramenta.
